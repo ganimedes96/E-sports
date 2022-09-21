@@ -49,12 +49,15 @@ $ cd web
 # Install the dependencies
 $ yarn
 
-# Install packages
-$ npm install
+# Run Vite
+$ yarn dev
+
+OR
 
 # Run Vite
 $ npm run dev
 
-# Run Vite
-$ yarn dev
+# Install packages
+$ npm install
+
 ```
