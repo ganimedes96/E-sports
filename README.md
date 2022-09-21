@@ -8,7 +8,7 @@
 </h2>
 
 <h1 align="center">
-   Web
+  Front-End
 </h1>
 
 
@@ -18,5 +18,16 @@ https://user-images.githubusercontent.com/59948274/191398109-971586e2-a24e-4b6d-
 
 
 <h2 >
-	About th project
+	About the project
 </h2>
+## 🚀 Technologies
+
+Technologies that I used to develop this web client
+
+- [React]([https://reactnative.dev](https://reactjs.org))
+- [TypeScript](https://www.typescriptlang.org/)
+- [vite](https://vitejs.dev)
+- [tailwind](https://tailwindui.com)
+- [axios](https://axios-http.com/docs/intro)
+- [Radix UI](https://www.radix-ui.com)
+- [Phosphor](https://phosphoricons.com)
