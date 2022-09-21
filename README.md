@@ -77,7 +77,7 @@ https://user-images.githubusercontent.com/59948274/191399465-657ee60a-6ef4-41c2-
 </h2>
 ## 🚀 Technologies
 
-Technologies that I used to develop this web client
+Technologies that I used to develop this mobile client
 
 - [Expo](https://expo.dev)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -126,7 +126,7 @@ This project was developed the backend with Node with Prisma, database is sqlite
 
 ## 🚀 Technologies
 
-Technologies that I used to develop this web client
+Technologies that I used to develop this api client
 
 - [Node](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
