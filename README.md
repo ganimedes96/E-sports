@@ -66,7 +66,7 @@ $ npm run dev
 ```
 
 <h1 align="center">
-  Front-End
+  Mobile
 </h1>
 
 https://user-images.githubusercontent.com/59948274/191399465-657ee60a-6ef4-41c2-9e39-5f32df5f05cb.mp4
@@ -108,6 +108,48 @@ $ npm install
 
 # Run Mobile
 $ expo start
+```
+
+---
+<h1 align="center">
+  Back-End
+</h1>
+<h2 >
+	About the project
+</h2>
+This project was developed the backend with Node with Prisma, database is sqlite, use the Insomnia file to import JSON for test routes. He have four routes created: 
+- POST: Create Ad /games/:id/ads (:id = gameId)
+- GET: Ad by Game games/:id (:id = gameId)
+- GET: List all games /games
+- GET: Discord by Ad /ads/:id/discord (:id = adId)
+
+
+## 🚀 Technologies
+
+Technologies that I used to develop this web client
+
+- [Node](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Prisma](https://www.prisma.io/)
+- [sqlite](https://www.sqlite.org/index.html)
+
+### ❕ Install API
+
+```bash
+# Enter /server
+$ cd server
+
+# Install packages
+$ npm install
+
+# Migrations
+$ npx prisma migrate dev
+
+# Migrations Preview
+$ npx prisma studio
+
+# Run Back-end
+$ npm run dev
 ```
 
 ---
