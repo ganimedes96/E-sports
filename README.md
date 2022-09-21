@@ -12,9 +12,9 @@
 </h1>
 
 
-<div align='center'>
+
 https://user-images.githubusercontent.com/59948274/191398109-971586e2-a24e-4b6d-b01e-b144757522ed.mp4
-</div>
+
 
 
 
@@ -69,9 +69,7 @@ $ npm run dev
   Front-End
 </h1>
 
-<div align='center'>
-	https://user-images.githubusercontent.com/59948274/191399465-657ee60a-6ef4-41c2-9e39-5f32df5f05cb.mp4
-</div>
+https://user-images.githubusercontent.com/59948274/191399465-657ee60a-6ef4-41c2-9e39-5f32df5f05cb.mp4
 
 
 <h2 >
