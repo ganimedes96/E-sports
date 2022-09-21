@@ -54,10 +54,9 @@ $ yarn dev
 
 OR
 
-# Run Vite
-$ npm run dev
-
-# Install packages
+# Install the dependencies
 $ npm install
 
+# Run Vite
+$ npm run dev
 ```
