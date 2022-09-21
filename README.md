@@ -120,10 +120,10 @@ $ expo start
 This project was developed the backend with Node with Prisma, database is sqlite, use the Insomnia file to import JSON for test routes. He have four routes created:
 
 
-# POST: Create Ad /games/:id/ads (:id = gameId)
-# GET: Ad by Game games/:id (:id = gameId)
-# GET: List all games /games
-# ET: Discord by Ad /ads/:id/discord (:id = adId)
+- [POST: Create Ad /games/:id/ads (:id = gameId)]
+- [GET: Ad by Game games/:id (:id = gameId)]
+- [GET: List all games /games]
+- [ET: Discord by Ad /ads/:id/discord (:id = adId)]
 
 
 ## 🚀 Technologies
