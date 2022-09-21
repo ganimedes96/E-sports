@@ -42,6 +42,8 @@ Technologies that I used to develop this web client
 
 **Follow the steps below to install the required dependencies**
 
+### ❕ Install Web (Run Api first)
+
 ```bash
 # Enter /web
 $ cd web
@@ -60,3 +62,51 @@ $ npm install
 # Run Vite
 $ npm run dev
 ```
+
+<h1 align="center">
+  Front-End
+</h1>
+
+
+https://user-images.githubusercontent.com/59948274/191399465-657ee60a-6ef4-41c2-9e39-5f32df5f05cb.mp4
+
+<h2 >
+	About the project
+</h2>
+## 🚀 Technologies
+
+Technologies that I used to develop this web client
+
+- [Expo](https://reactjs.org](https://expo.dev)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React-Native](https://reactnative.dev)
+- [React-Navigation](https://reactnavigation.org)
+- [Phosphor](https://phosphoricons.com)
+
+
+## 💻 Getting started
+
+### Requirements
+
+**Clone the project and access the folder**
+
+
+**Follow the steps below to install the required dependencies**
+
+---
+
+### ❕ Install Mobile (Run Api first)
+
+```bash
+# Enter /mobile
+$ cd mobile
+
+# Install packages
+$ npm install
+
+# Run Mobile
+$ expo start
+```
+
+---
+
