@@ -129,6 +129,7 @@ This project was developed the backend with Node with Prisma, database is sqlite
 Technologies that I used to develop this api client
 
 - [Node](https://nodejs.org/en/)
+- [espress](https://expressjs.com)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Prisma](https://www.prisma.io/)
 - [sqlite](https://www.sqlite.org/index.html)
