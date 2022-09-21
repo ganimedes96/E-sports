@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/59948274/191399465-657ee60a-6ef4-41c2-
 
 Technologies that I used to develop this web client
 
-- [Expo](https://reactjs.org](https://expo.dev)
+- [Expo](https://expo.dev)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React-Native](https://reactnative.dev)
 - [React-Navigation](https://reactnavigation.org)
