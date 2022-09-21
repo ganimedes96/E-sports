@@ -1,3 +1,3 @@
 <div align='center'>
-  <img src='./github/logo.png'/>
+  <img src='./.github/logo.png'/>
 </div>
